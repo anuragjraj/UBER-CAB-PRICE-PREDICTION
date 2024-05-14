@@ -1,2 +1,2 @@
-# Uber Price Prediction
+# Machine Learning Project
 starting
